@@ -1,4 +1,4 @@
-# To evaluate how information diffusion in social media can impact the crypto token market, we collect tweet data for 500+ tokens that are listed in the secondary market and
+# To evaluate how information diffusion in social media can impact the crypto token market, we collect tweet data of 500+ tokens that are listed in the secondary market and
 # token-related trading data. In this R script, the main task is data cleaning, joining trading data with tweet data to create a complete panel data for crypto tokens.
 # After that, I use fixed effect model and instrumental variables to evaluate how evaluate how tweet intensity the trading performance of crypto tokens.
 
